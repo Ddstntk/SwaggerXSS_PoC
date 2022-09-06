@@ -12,10 +12,10 @@
     "https"
   ],
   "consumes": [
-    "application/json"
+    "javascript:alert('vulnerable :((')"
   ],
   "produces": [
-    "application/json"
+    "javascript:alert('vulnerable :((')"
   ],
   "paths": {
     "/localizations": {
