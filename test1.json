@@ -3,7 +3,7 @@
   "info": {
   "title": "Swagger Sample App",
   "description": "Please to click Terms of service",
-  "termsOfService": "javascript:alert('vulnerable :((')",
+  "termsOfService": "javascript:console.log('test')",
   "version": "1.0.1"
 },
   "basePath": "/v1",
